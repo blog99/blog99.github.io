@@ -18,6 +18,11 @@
     <link>html/entrada3.html</link>
     <description>Començem el nostre viatge a l'aeoroport del Prat. Proxima parada, Londres.</description>
   </item>
+  <item>
+    <title>Tornem a Barcelona</title>
+    <link>html/entrada4.html</link>
+    <description>Després de passar una setmana estuoenda, tornem a Barcelona molt relaxats.</description>
+  </item>
 </channel>
 
 </rss>
