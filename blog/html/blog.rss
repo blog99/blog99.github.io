@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Blog Adrián</title>
+  <link>https://blog99.github.io</link>
+  <item>
+    <title>Anem al Harrods</title>
+    <link>html/entrada1.html</link>
+    <description>El nostre segon dia comença amb la visita al hotel més luxós de Londres.</description>
+  </item>
+  <item>
+    <title>Fish and Chips</title>
+    <link>html/entrada2.html</link>
+    <description>No portem ni dos hores a Londres i ja estem plens de fish and chips. A bon menjar, tres vegades trincar.</description>
+  </item>
+  <item>
+    <title>Viatge a Londres</title>
+    <link>html/entrada3.html</link>
+    <description>Començem el nostre viatge a l'aeoroport del Prat. Proxima parada, Londres.</description>
+  </item>
+</channel>
+
+</rss>
